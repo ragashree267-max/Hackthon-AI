@@ -1,0 +1,27 @@
+run the backend 
+----------------
+inside the smart-retail-operations-platform /
+
+- uvicorn backend.main:app --reload
+
+smart-retail-operations-platform
+
+smart-retail-operations-
+
+Y:\Hackathon\Chennai\DO NOT DELETE\smart-retail-operations-platform
+
+-------------------------------------
+
+frontend : 
+python -m http.server 3000
+
+backend : 
+uvicorn backend.main:app --reload
+
+
+- add item 
+- update threshold 
+- search item 
+- filter by category 
+- total inventory value 
+- ai classification 

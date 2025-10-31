@@ -1,0 +1,11 @@
+python -m pip install aider-install
+
+set SSL_CERT_FILE=C:\Users\GenAICHNSIRUSR100\Documents\aiproxy.tcs.in.crt
+
+
+aider-install
+
+setx OPENAI_API_KEY "sk-AHaeamW 97432lOqJGcXfZA"
+setx OPENAI_API_BASE "https://genailab.tcs.in"
+
+
